@@ -16,7 +16,7 @@ Create space for text or creative designs
 How AI Expand Image Background Works
 When you AI extend image online, the tool analyzes your photo and predicts how the missing edges should look. The result is a natural, seamless background extension that blends perfectly with your original image. No more awkward borders or stretched pixels—just smooth, AI-generated edges.
 Steps to use ImgFixAI’s AI Expand Photo tool:
-Upload your photo to ImgFixAI.com
+Upload your photo to [ImgFixAI.com](https://imgfixai.com/extend-image-ai)
 
 
 Click Extend Image
